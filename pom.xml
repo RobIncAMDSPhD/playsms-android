@@ -36,6 +36,10 @@
                     <sdk>
                         <platform>19</platform>
                     </sdk>
+                    <emulator>
+                        <avd>Nexus4</avd>
+                        <wait>30000</wait>
+                    </emulator>
                 </configuration>
             </plugin>
         </plugins>
